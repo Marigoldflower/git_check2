@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     var name: String?
     var hobby: String?
     var age: Int?
+    var height: Double?
     
     override func viewDidLoad() {
         super.viewDidLoad()
